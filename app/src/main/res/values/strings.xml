@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RPR</string>
+    <string name="error_service_execution">Service execution error:</string>
 </resources>

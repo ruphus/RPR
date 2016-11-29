@@ -1,4 +1,4 @@
-package com.ruphus.rpr.service;
+package com.ruphus.rpr.generators;
 
 import java.util.Date;
 
